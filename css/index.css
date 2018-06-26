@@ -1,0 +1,13 @@
+h1 { font-size: 50px;
+	margin: 5px;
+ }
+ h3 { color:blue; }
+
+a:link {
+    text-decoration: none;
+    padding: 10px;
+}
+
+{ padding-left: 0px;
+}
+{margin: 20px;}
