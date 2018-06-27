@@ -1,51 +1,72 @@
-h1 { font-size: 50px;
-	margin: 5px;
- }
- h3 { color:blue;
- text-decoration: underline; }
-
-body {
-font-family: 'Markazi Text', serif;
-padding: 20px;
-font-size: 20px;
-
-
-}
-
-a:link {
-    text-decoration: none;
-    padding: 10px;
-}
-
-h2 {
-	color:pink;
-	text-decoration: underline;
-}
-
-{ 
-	padding-top: 20px;
-    padding-right: 20px;
-    padding-bottom: 20px;
-    padding-left: 20px;
-}
-
- .done2 {border-radius: 30px; 
- 	border: 5px solid red}
-
- 	#top, #bottom, #left, #right {
-	background: #a5ebff;
-	position: fixed;
+	h1 { 
+		font-size: 50px;
+		margin: 5px;
+	 }
+	 h3 { 
+	 	color:blue;
+	 text-decoration: underline; 
 	}
-	#left, #right {
-		top: 0; bottom: 0;
-		width: 15px;
+
+	body {
+	font-family: 'Markazi Text', serif;
+	padding: 20px;
+	font-size: 20px;
+	}
+
+	a:link {
+	    text-decoration: none;
+	    padding: 10px;
+	}
+
+	h2 {
+		color:pink;
+		text-decoration: underline;
+	}
+
+	head {
+		line-height: 100px
+	}
+
+	{ 
+		padding-top: 20px;
+	    padding-right: 20px;
+	    padding-bottom: 20px;
+	    padding-left: 20px;
+	}
+
+	.done3 {background-color: pink;
+	color: white;
+	padding: 10px 10px;
+	text-align: center; 
+	text-decoration: none;
+	display: inline-block;}
+
+	 .done2 {border-radius: 30px; 
+	 	padding: 20px;
+	 	
+	}
+	 
+
+	 	#top, #bottom, #left, #right 
+	 	{
+		background: black;
+		position: fixed;
 		}
-		#left { left: 0; }
-		#right { right: 0; }
-		
-	#top, #bottom {
-		left: 0; right: 0;
-		height: 15px;
-		}
-		#top { top: 0; }
-		#bottom { bottom: 0; }
+		#left, #right 
+		{
+			top: 0; bottom: 0;
+			width: 15px;
+			}
+			#left { left: 0; }
+			#right { right: 0; }
+			
+		#top, #bottom {
+			left: 0; right: 0;
+			height: 15px;
+			}
+			#top { top: 0; }
+			#bottom { bottom: 0; }
+
+			.done3 {
+
+			}
